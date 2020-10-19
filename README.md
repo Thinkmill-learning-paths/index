@@ -16,3 +16,4 @@
 - DevOps
 - Computer Science
 - React Native
+- Typography
