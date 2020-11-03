@@ -8,6 +8,7 @@
 - JS bundlers
 - Packaging and publishing on npm
 - React API design
+- Design System process
 - Typescript
 - ASTs and Babel and codemods
 - Testing
