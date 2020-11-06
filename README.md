@@ -1,20 +1,24 @@
 # CSS basics
 
-> the index of all paths
+> The index of all paths
 
 ## All learning paths
 
-- [GraphQL basics](https://github.com/Thinkmill-learning-paths/graphql-basics)
-- JS bundlers
-- Packaging and publishing on npm
-- React API design
-- Design System process
-- Typescript
 - ASTs and Babel and codemods
-- Testing
-- [CSS basics](https://github.com/Thinkmill-learning-paths/css-basics)
 - Accessibility
-- DevOps
+- [CSS basics](https://github.com/Thinkmill-learning-paths/css-basics)
 - Computer Science
+- Deep-dive into render and reconciler of React
+- Design Systems
+- DevOps
+- [GraphQL basics](https://github.com/Thinkmill-learning-paths/graphql-basics)
+- Intro into JS for non-tech peeps
+- Intro into React for non-tech peeps
+- [JS bundlers like Webpack or Parcel](https://github.com/Thinkmill-learning-paths/js-bundlers)
+- Keystone
+- [Packaging, publishing on npm and monorepos](https://github.com/Thinkmill-learning-paths/npm-publish)
+- React API design
 - React Native
+- Testing
+- Typescript
 - Typography
