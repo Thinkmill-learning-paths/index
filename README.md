@@ -1,8 +1,8 @@
-# CSS basics
+# Thinkmill Learning Paths
 
-> The index of all paths
+> The index of all Learning Paths
 
-## All learning paths
+## Options
 
 - ASTs and Babel and codemods
 - Accessibility
