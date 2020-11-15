@@ -18,7 +18,7 @@
 - Keystone
 - [Packaging, publishing on npm and monorepos](https://github.com/Thinkmill-learning-paths/npm-publish)
 - React API design
-- React Native
+- [React Native](https://github.com/Thinkmill-learning-paths/react-native)
 - Testing
 - Typescript
 - Typography
