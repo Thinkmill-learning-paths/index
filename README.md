@@ -1,8 +1,8 @@
-# CSS basics
+# Thinkmill Learning Paths
 
-> The index of all paths
+> The index of all Learning Paths
 
-## All learning paths
+## Options
 
 - ASTs and Babel and codemods
 - [Accessibility](https://github.com/Thinkmill-learning-paths/a11y)
@@ -18,7 +18,7 @@
 - Keystone
 - [Packaging, publishing on npm and monorepos](https://github.com/Thinkmill-learning-paths/npm-publish)
 - React API design
-- React Native
+- [React Native](https://github.com/Thinkmill-learning-paths/react-native)
 - [Testing](https://github.com/Thinkmill-learning-paths/testing)
 - Typescript
 - Typography
