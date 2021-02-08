@@ -2,6 +2,8 @@
 
 > The index of all Learning Paths
 
+If you like to suggest a new path that would add value to you please do that by adding an issue to this repo.
+
 ## Options
 
 - ASTs and Babel and codemods
